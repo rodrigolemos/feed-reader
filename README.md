@@ -1,6 +1,6 @@
 # Feed Reader Project
 
-A simple application that reads RSS feeds and needs tests suites. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
+A simple application that reads RSS feeds and needs tests suites. The original developer of this application clearly saw the value in testing, he's already included [Jasmine](http://jasmine.github.io/) and even started writing his first test suite! Unfortunately, he decided to move on to start his own company and we're now left with an application with an incomplete test suite.
 
 
 ## Why this Project?
